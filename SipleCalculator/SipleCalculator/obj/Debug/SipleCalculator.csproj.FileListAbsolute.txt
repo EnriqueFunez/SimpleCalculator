@@ -1,0 +1,21 @@
+C:\Users\J.E Funez\source\repos\SipleCalculator\SipleCalculator\bin\Debug\SipleCalculator.exe.config
+C:\Users\J.E Funez\source\repos\SipleCalculator\SipleCalculator\bin\Debug\SipleCalculator.exe
+C:\Users\J.E Funez\source\repos\SipleCalculator\SipleCalculator\bin\Debug\SipleCalculator.pdb
+C:\Users\J.E Funez\source\repos\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.csproj.AssemblyReference.cache
+C:\Users\J.E Funez\source\repos\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.Form1.resources
+C:\Users\J.E Funez\source\repos\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.Properties.Resources.resources
+C:\Users\J.E Funez\source\repos\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.csproj.GenerateResource.cache
+C:\Users\J.E Funez\source\repos\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\J.E Funez\source\repos\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.exe
+C:\Users\J.E Funez\source\repos\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.pdb
+C:\Users\J.E Funez\OneDrive\Desktop\OneDrive folder\Software design\IT232_Funez_Unit2\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.csproj.AssemblyReference.cache
+C:\Users\J.E Funez\OneDrive\Desktop\OneDrive folder\Software design\IT232_Funez_Unit2\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.exe
+C:\Users\J.E Funez\OneDrive\Desktop\OneDrive folder\Software design\IT232_Funez_Unit2\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.pdb
+C:\Users\jfune\OneDrive\Desktop\OneDrive folder\Software design\IT232_Funez_Unit2\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.csproj.AssemblyReference.cache
+C:\Users\jfune\OneDrive\Desktop\OneDrive folder\Software design\IT232_Funez_Unit2\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\jfune\OneDrive\Desktop\OneDrive folder\Software design\IT232_Funez_Unit2\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.exe
+C:\Users\jfune\OneDrive\Desktop\OneDrive folder\Software design\IT232_Funez_Unit2\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.pdb
+C:\Users\jfune\OneDrive\Desktop\Academia X\projectos\Calculator\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.csproj.AssemblyReference.cache
+C:\Users\jfune\OneDrive\Desktop\Academia X\projectos\Calculator\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\jfune\OneDrive\Desktop\Academia X\projectos\Calculator\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.exe
+C:\Users\jfune\OneDrive\Desktop\Academia X\projectos\Calculator\SipleCalculator\SipleCalculator\obj\Debug\SipleCalculator.pdb
